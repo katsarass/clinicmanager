@@ -1,0 +1,9 @@
+1,Blood,Microbiological,20,15.0,3,Microbiological,Blood
+2,urine,Microbiological,20,10.0,3,Microbiological,Urine
+3,Swab,Microbiological,12,16.5,3,Microbiological,Swab
+4,Magnetic Tomography,Imaging,7,250.0,2,Imaging,MRI
+5,Axonic Tomography,Imaging,7,170.0,2,Imaging,CT
+6,Iconography,Imaging,20,50.0,2,Imaging,X-RAY
+7,Holter 24 hours,Specialized,10,80.0,1,Specialized,Cardiology
+8,SPT,Specialized,12,120.0,1,Specialized,Pulmonology
+9,EEG,Specialized,12,130.0,1,Specialized,Neurology

@@ -1,0 +1,4 @@
+1,John Papadakis,2101234567,Cardiologist,10
+2,Petros Papadopoulos,2130234567,Actinologist,10
+3,Maria Iatridou,210456789,Microbiologist,20
+4,Paul Manou,9876123456,Microbiology,9
